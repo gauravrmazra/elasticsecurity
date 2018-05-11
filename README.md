@@ -1,0 +1,2 @@
+# elasticsecurity
+ElasticSearch Security Plugin
